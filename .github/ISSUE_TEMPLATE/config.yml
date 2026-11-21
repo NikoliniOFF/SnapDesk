@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 💡 Предложить идею
+    url: https://github.com/NikoliniOFF/SnapDesk/discussions/new/choose
+    about: Новые режимы, настройки, пожелания — в обсуждениях
+  - name: ❓ Задать вопрос
+    url: https://github.com/NikoliniOFF/SnapDesk/discussions/new/choose
+    about: Как что-то настроить или почему что-то работает так
