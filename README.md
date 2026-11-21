@@ -164,6 +164,13 @@ SnapDesk сам проверяет новые версии на этой стр�
       <sub><a href="https://nikolinioff.github.io/SpotDesk/">Сайт</a> · <a href="https://github.com/NikoliniOFF/SpotDesk">GitHub</a></sub>
     </td>
   </tr>
+  <tr>
+    <td width="96" align="center"><a href="https://nikolinioff.github.io/IslandDesk/"><img src="docs/assets/apps/islanddesk.png" alt="IslandDesk" width="72"></a></td>
+    <td>
+      <b><a href="https://nikolinioff.github.io/IslandDesk/">IslandDesk</a></b> — «динамический остров» для Windows: музыка, громкость, таймер, загрузки и уведомления в живой пилюле вверху экрана.<br>
+      <sub><a href="https://nikolinioff.github.io/IslandDesk/">Сайт</a> · <a href="https://github.com/NikoliniOFF/IslandDesk">GitHub</a></sub>
+    </td>
+  </tr>
   <!-- Новая программа: скопируйте строку <tr>…</tr> выше и поменяйте значок, название, описание и ссылки. -->
 </table>
 
